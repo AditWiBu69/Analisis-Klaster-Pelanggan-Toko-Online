@@ -62,6 +62,8 @@ Dataset publik dari **Kaggle**:
    cd nama-repo
 2. ** Install dependencies
    pip install -r requirements.txt
-3. ** Jalankan notebook
-   -Buka file analisis_klaster_rfm.ipynb menggunakan jupyter notebook atau google colab
+   
+4. ** Jalankan notebook
+   
+   - Buka file analisis_klaster_rfm.ipynb menggunakan jupyter notebook atau google colab
    - Eksekusi sel dari atas ke bawah
